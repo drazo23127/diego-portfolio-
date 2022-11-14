@@ -1,10 +1,10 @@
-## Portfolio
+## Diego Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic design project 
 
-[Project 1 Title](/sample_page)
+[](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
