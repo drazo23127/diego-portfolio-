@@ -4,16 +4,16 @@
 
 ### Graphic design project 
 
-[Project 1: Ripped text effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Album cover](/sample_page)
+<img src="Kendrick Lamar final"/>
 
 ---
-[Project 2: Galaxy Cat](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Liquid pic ](/pdf/sample_presentation.pdf)
+<img src="liquid pic"/>
 
 ---
-[Project 3: Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: double exposure](http://example.com/)
+<img src="kdot double exposure"/>
 
 ---
 
