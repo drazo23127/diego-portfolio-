@@ -16,7 +16,7 @@
 <img src="images/kdot double exposure.jpg?raw=true"/>
 
 ---
-[Project 3: Pixelated pic ](http://example.com/)
+[Project 3: Pixelated rafting picture ](http://example.com/)
 <img src="images/pixxelated rafting.jpg?raw=true"/>
 
 ### Category Name 2
