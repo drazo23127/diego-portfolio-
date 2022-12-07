@@ -19,6 +19,7 @@
 [Project 3: Pixelated rafting picture ](http://example.com/)
 <img src="images/pixxelated rafting.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
