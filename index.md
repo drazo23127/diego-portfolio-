@@ -5,7 +5,7 @@
 ### Graphic design project 
 
 [Project 1: Album cover](/sample_page)
-<img src="Kendrick Lamar final.png?raw=true"/>
+e<img src="images/Kendrick Lamar final.png?raw=true"/>
 
 ---
 [Project 2: Liquid pic ](/pdf/sample_presentation.pdf)
