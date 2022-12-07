@@ -5,15 +5,15 @@
 ### Graphic design project 
 
 [Project 1: Album cover](/sample_page)
-e<img src="images/Kendrick Lamar final.png?raw=true"/>
+<img src="images/Kendrick Lamar final.png?raw=true"/>
 
 ---
 [Project 2: Liquid pic ](/pdf/sample_presentation.pdf)
-<img src="liquid pic"/>
+<img src="images/liquid pic.png?raw=true"/>
 
 ---
 [Project 3: double exposure](http://example.com/)
-<img src="kdot double exposure"/>
+<img src="images/kdot double exposure.jpg?raw=true"/>
 
 ---
 
